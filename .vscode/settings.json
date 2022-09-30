@@ -1,0 +1,6 @@
+{
+    "avdmanager.sdkPath": "c:\\android_sdk",
+    "avdmanager.executable": "c:\\android_sdk\\cmdline-tools\\NOTICE.txt",
+    "avdmanager.sdkManager": "c:\\android_sdk\\cmdline-tools\\source.properties",
+    "dart.flutterAdbConnectOnChromeOs": true
+}
